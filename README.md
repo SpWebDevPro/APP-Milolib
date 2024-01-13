@@ -1,6 +1,26 @@
 # MILOLIB
 
-An awesome app with VueJs and some other stuff \o/
+
+###Description :   
+Projet d’équipe pour la Maison de l’emploi et de la Formation de Sénart : Réalisation d’un prototype de prise de rendez-vous et gestion d’agenda en ligne pour les conseillers de la MDEF afin d'ouvrir leurs RDV aux jeunes en demande de suivi.  
+
+Url  original Repo:  
+GitHub : https://github.com/alihasana/MILOLIB  
+
+
+### Summary :  
+Product Owner et Développeur Front sur la partie Calendrier.  
+Fronts développés en Javascript avec VueJs : 1/ Front client permet à l'utilisateur de sélectionner des disponibilités et 2/ Front permet de créer ses disponibilités.  
+Projet présenté lors du séminaire 'Grand Paris Sud nouveau territoire de l’économie numérique' en présence de Mounir Mahjoubi, alors secrétaire d’État auprès du premier ministre chargé du numérique.  
+
+![ScreenShot1](https://github.com/SpWebDevPro/APP-Milolib/blob/master/img/Seminaire-numerique-simplon.jpg)
+
+
+### Keywords :  
+VueJS, NodeJS, ExpressJS, MongoDB, CSS, SCSS, Bootstrap   
+
+
+_______________________________________________________________________
 
 ## Getting Started
 
@@ -54,7 +74,7 @@ In terminal make :
 
 Then check if the datas are in your database :
 - milolib->collection->users (5 entries) 
-- milolib->collection->clients (3 entries))
+- milolib->collection->clients (3 entries)
 
 Notes Staff Seeder : 
 Email : admin-conseiller Password : admin-conseiller
